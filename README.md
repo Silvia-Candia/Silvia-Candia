@@ -1,12 +1,12 @@
 ### Silvia Candia
 
-I work on embedded systems and satellite communications (FPGA, real-time signal work, hardware performance measurement) under [Candia Systems](https://www.candia-systems.com), and on geospatial data science (GIS, environmental mapping, spatial analysis) under GeoWren.
+I work on geospatial data science (remote sensing, GIS, spatial analysis) as **[GeoWren](https://geowren.co.uk)**, and embedded systems (FPGAs, edge satellite subsystems) as **[Candia Systems](https://www.candia-systems.com)**.
 
-Trained as a physicist (MPhys, PhD, Exeter). Came back for an MRes in Computer Science in 2020 on hardware performance counters and data structures for multi-objective optimisation; that's the foundation for most of the embedded direction now. Surveying MSc from Northumbria covers the regulated side of planning work.
+I have a background in Physics and Computer Science (MPhys from [Insituto Balseiro](https://www.ib.edu.ar/), Argentina; MRes in Computer Science, [University of Exeter](https://www.exeter.ac.uk/), UK). The MRes examined hardware performance counters and data structures for multi-objective optimisation and it is the foundation for my current embedded direction.
 
-Public repos here are utilities, demos, and templates. Active client work is in private repos.
+The public repos here are open-source and open-data work I share publicly. All client work is in private repositories on a self-hosted GitLab.
 
-silvia.candia@yahoo.co.uk · [candia-systems.com](https://www.candia-systems.com)
+For questions, [open an issue](https://github.com/Silvia-Candia/Silvia-Candia/issues/new).
 
 ### Note for visitors arriving from my MRes thesis
 
@@ -16,4 +16,4 @@ Some chapters of my 2020 MRes thesis (*Performance Counter Measurements of Data 
 - The complete MRes codebase, cleaned and presentable, will live at [`QTproject`](https://github.com/Silvia-Candia/QTproject), currently being assembled.
 - The thesis itself is publicly available at the [Exeter institutional repository](https://ore.exeter.ac.uk/repository/handle/10871/123038).
 
-Open an issue on `QTproject` or `Perf-Counters`, or contact me at silvia.candia@yahoo.co.uk, for any questions about the work.
+Open an issue on `QTproject` or `Perf-Counters` for any questions about the work.
