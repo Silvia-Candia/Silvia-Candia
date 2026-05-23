@@ -2,7 +2,7 @@
 
 I work on geospatial data science (remote sensing, GIS, spatial analysis) as **[GeoWren](https://geowren.co.uk)**, and embedded systems (FPGAs, edge satellite subsystems) as **[Candia Systems](https://www.candia-systems.com)**.
 
-I have a background in Physics and Computer Science (MPhys from [Insituto Balseiro](https://www.ib.edu.ar/), Argentina; MRes in Computer Science, [University of Exeter](https://www.exeter.ac.uk/), UK). The MRes examined hardware performance counters and data structures for multi-objective optimisation and it is the foundation for my current embedded direction.
+I have a background in Physics and Computer Science (MPhys from [Instituto Balseiro](https://www.ib.edu.ar/), Argentina; MRes in Computer Science, [University of Exeter](https://www.exeter.ac.uk/), UK). The MRes examined hardware performance counters and data structures for multi-objective optimisation and it is the foundation for my current embedded direction.
 
 The public repos here are open-source and open-data work I share publicly. All client work is in private repositories on a self-hosted GitLab.
 
