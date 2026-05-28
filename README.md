@@ -13,7 +13,8 @@ For questions, [open an issue](https://github.com/Silvia-Candia/Silvia-Candia/is
 Some chapters of my 2020 MRes thesis (*Performance Counter Measurements of Data Structures: Implementations for Multi-Objective Optimisation*, University of Exeter Computer Science) cite a GitHub URL under my then-username `Silvia-prog`. I renamed the account to `Silvia-Candia` (this account) in October 2020.
 
 - The chapter-4 code citation (`Silvia-prog/Perf-Counters`) automatically redirects to [`Silvia-Candia/Perf-Counters`](https://github.com/Silvia-Candia/Perf-Counters).
-- The complete MRes codebase, cleaned and presentable, will live at [`QTproject`](https://github.com/Silvia-Candia/QTproject), currently being assembled.
+- The complete MRes codebase, cleaned and presentable, will live at [`QTproject`](https://github.com/Silvia-Candia/QTproject).
+- Both repositories are currently private while I clean and reorganise the code, so the links above will return a 404 until they go public.
 - The thesis itself is publicly available at the [Exeter institutional repository](https://ore.exeter.ac.uk/repository/handle/10871/123038).
 
-Open an issue on `QTproject` or `Perf-Counters` for any questions about the work.
+For any questions about the work in the meantime, please [open an issue on this profile](https://github.com/Silvia-Candia/Silvia-Candia/issues/new).
