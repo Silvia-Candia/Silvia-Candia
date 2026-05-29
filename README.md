@@ -4,9 +4,7 @@ I work on geospatial data science (remote sensing, GIS, spatial analysis) as **[
 
 I have a background in Physics and Computer Science (MPhys from [Instituto Balseiro](https://www.ib.edu.ar/), Argentina; MRes in Computer Science, [University of Exeter](https://www.exeter.ac.uk/), UK). The MRes examined hardware performance counters and data structures for multi-objective optimisation and it is the foundation for my current embedded direction.
 
-The public repos here are open-source and open-data work I share publicly. All client work is in private repositories on a self-hosted GitLab.
-
-For questions, [open an issue](https://github.com/Silvia-Candia/Silvia-Candia/issues/new).
+The public repos here are open-source and open-data work I share publicly. Most of my work happens in private repos until ready for publishing. All client work is in private repositories on a self-hosted GitLab.
 
 ### Note for visitors arriving from my MRes thesis
 
@@ -17,4 +15,5 @@ Some chapters of my 2020 MRes thesis (*Performance Counter Measurements of Data 
 - Both repositories are currently private while I clean and reorganise the code, so the links above will return a 404 until they go public.
 - The thesis itself is publicly available at the [Exeter institutional repository](https://ore.exeter.ac.uk/repository/handle/10871/123038).
 
-For any questions about the work in the meantime, please [open an issue on this profile](https://github.com/Silvia-Candia/Silvia-Candia/issues/new).
+
+For questions, [open an issue](https://github.com/Silvia-Candia/Silvia-Candia/issues/new).
